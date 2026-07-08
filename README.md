@@ -1,4 +1,4 @@
-## Hi there 👋
+## I usually focus on my continuous learning by seeking new challenges. One of the things I enjoy doing most is programming and bringing my ideas to life
 
 <!--
 **David-GS1/David-GS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
